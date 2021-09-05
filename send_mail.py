@@ -9,7 +9,7 @@ from email import encoders
 # nqfsixstmwaanxwx
 
 username = 'i51vignesh@gmail.com'
-password = 'nqfsixstmwaanxwx'
+password = ''
 
 
 def send_mail(text="Email body", subject="Hello",from_email= "spacemonkey <i51vignesh@gmail.com>",to_emails=None, html=None,attachment=None):
