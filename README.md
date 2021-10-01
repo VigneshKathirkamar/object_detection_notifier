@@ -1,7 +1,10 @@
 # object_detection_notifier
 Program for detecting objects, capturing it and sending them to mail id with the image attachment
 
-First clone this repository and run pip3 install -r requirements.txt
+**git clone https://github.com/VigneshKathirkamar/object_detection_notifier.git
+cd object_detection_notifier
+pip3 install -r requirements.txt**
+
 
 Run the command with your user name and password.
 
