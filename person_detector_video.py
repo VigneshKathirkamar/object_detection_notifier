@@ -8,7 +8,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('--dl_model',type=str, help='the deep learning model file',default='./frozen_inference_graph.pb')
+parser.add_argument('--dl_model',type=str, help='the deep learning model file',default='./ssd_mobilenet_v2_coco_2018_03_29/frozen_inference_graph.pb')
 parser.add_argument('--label_file',type=str,default='./new_labels.txt',help='label file')
 parser.add_argument('--config',type=str,default='./ssd_mobilenet.pbtxt.txt')
 parser.add_argument('--detection_folder',type=str,default='./person_detector/objects/')
