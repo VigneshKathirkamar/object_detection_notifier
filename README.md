@@ -21,3 +21,7 @@ Follow this link:https://qr.ae/pGepQ7 to generate 16 digit password for your mai
 Run the below command with your user name and password.
 
 ```sudo python3 person_detector_video.py --to_mail_id karthik.akash08@gmail.com --pwd qlaxxlvqpknkhhqp --from_mail_id i51vignesh@gmail.com```
+
+## To do
+- Scaling the project. Right now, since we are using gmail, the total number of notifications/mails is limited to 2000 per person per day.(i.e 500 mails for 4 person per day)
+- Instead of person detection, models like MTCNN can be used to crop the face alone and this data can be used for training a classifier model. This would find use case in retail store analysis
