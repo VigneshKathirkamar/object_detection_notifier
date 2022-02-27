@@ -3,6 +3,8 @@
 
 Follow the below commands step by step to make this project run
 
+Clone this repository
+
 ```
 git clone https://github.com/VigneshKathirkamar/object_detection_notifier.git
 
