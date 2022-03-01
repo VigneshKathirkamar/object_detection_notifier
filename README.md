@@ -30,3 +30,5 @@ Run the below command with your user name and password.
 
 ## Update
 Tried using Raspberry pi (pi 3 Model B+) by cloning the repo, everything works fine but the latency time is very slow that it can't be used for real time puproses. Camera used was pi 5MP camera board module [https://www.amazon.in/gp/product/B00E1GGE40/ref=ppx_yo_dt_b_asin_image_o00_s00?ie=UTF8&psc=1]
+
+GPU has to be used for reducing the latency time
