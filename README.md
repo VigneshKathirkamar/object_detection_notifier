@@ -3,7 +3,7 @@
 
 Follow the below commands step by step to make this project run
 
-Clone this repository
+Clone this repository and execute the commands as shonw below
 
 ```
 git clone https://github.com/VigneshKathirkamar/object_detection_notifier.git
